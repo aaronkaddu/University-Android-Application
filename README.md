@@ -11,3 +11,6 @@ This we want to help us manage many featues like
 4. Crashing Reports
 
 Thats a summary of what we have made so far
+
+# Contributions
+contribution can be sent in the comments list
